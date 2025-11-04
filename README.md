@@ -1,5 +1,5 @@
-# Hack-the-Bay
-Production-ready AI Agents Hackathon @ AI By the Bay 11/18 - 11/19 2025
+# Hack The Bay
+## Production-ready AI Agents Hackathon @ AI By the Bay 11/18 - 11/19 2025
 
 
 Join us for a 2-day hackathon dedicated to building production-ready AI Agents that can accomplish something amazing in a business-to-business or business-to-consumer use case. 
