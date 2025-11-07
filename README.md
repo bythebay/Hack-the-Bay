@@ -60,9 +60,7 @@ Max team size is 5. No team? No problem. We’ll help match you with others at t
 ## MENTORS & JUDGES
 
 While participants are free to use any frameworks and tools they prefer, we will have an experienced group of mentors and judges on site to provide guidance.
-- [James Ward](https://www.linkedin.com/in/jamesward/?miniProfileUrn=urn%253Ali%253Afs_miniProfile%253AACoAAAAhoEoBnOZlWgNp1htpFnM170w2DiXMkIw&skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAhoEoBnOZlWgNp1htpFnM170w2DiXMkIw) known for his deep expertise in not only functional programming but also in working with scalable AI solutions in the AWS cloud. [[About]](https://jamesward.com/about-james-ward/)
-- [Josh Long](https://www.linkedin.com/in/joshlong/?miniProfileUrn=urn%253Ali%253Afs_miniProfile%253AACoAAACXdIABb8VbfXttpb7WA9oliQsXOS5rEgw&skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACXdIABb8VbfXttpb7WA9oliQsXOS5rEgw) has long been known as “Mr. Spring Boot.” More recently, he's been experimenting with Spring AI ever since Rod Johnson, the creator of Spring, started exploring that space. [[...more about Josh. Bootiful Podcast ]](https://joshlong.com/about.html)
-- [Vaibhav Gupta](https://www.linkedin.com/in/vaigup/) leads Boundary (YC w23), he hates ugly code. And as we know, most agent systems out there wouldn't pass a code review. So Viabhav is building BAML for clean, reliable AI infra. [[AI that works podcast] ](https://boundaryml.com/podcast)
+
 - [Isaac Miller](https://www.linkedin.com/in/miller-isaac/) is a long-time core contributor for DSPy, working on typing, fine-tuning, RL infra, and multi-modal support.
 - [Hugh McKee](https://www.linkedin.com/in/mckeehugh/?miniProfileUrn=urn%253Ali%253Afs_miniProfile%253AACoAAAF4iK4Bv0tBsoZU99RjT4AcQ4Z5mtvK3Q8&skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAF4iK4Bv0tBsoZU99RjT4AcQ4Z5mtvK3Q8) is a skilled developer advocate with decades of experience building enterprise applications. Hugh is an expert in distributed systems and Akka, and can help connect all the dots!
 - [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) is a globally recognized expert in developer relations and open source strategy. With over 25 years of experience at Intel, Apple, Amazon, and Red Hat, he’s built developer communities of thousands of people.
@@ -70,6 +68,11 @@ While participants are free to use any frameworks and tools they prefer, we will
 - [Jeremy Adams](https://www.linkedin.com/in/jeremy-adams-pdx/) is a Senior Developer Advocate at Neo4j who blends deep technical understanding with strategic insight. He’s passionate about people, entrepreneurship, integration, and automation, and has worked across technical and business roles at Dagger, GitHub, Twistlock, and Puppet.
 - [Fred Patton](https://www.linkedin.com/in/thoughtpoet/?miniProfileUrn=urn%253Ali%253Afs_miniProfile%253AACoAAAAg2FYBWAPs4BsILJNbp0JGNh0IWQyIHWU&skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAg2FYBWAPs4BsILJNbp0JGNh0IWQyIHWU) is a Senior Developer Advocate at Auth0 for Okta. He helps teams design AI systems that are scalable, accountable, and identity-aware. Prior to Auth0, he led developer-facing work on streaming data platforms at Nstream (formerly Swim .ai) working in security and healthtech.
 - [Prashanth Rao](https://www.linkedin.com/in/prrao87/) is an AI engineer at LanceDB. He's spent a lot of time working on use cases related to RAG, knowledge graphs, vector search, and incorporating them as tools for agents using modern frameworks like DSPy and BAML. He writes about these techniques on his blog, [thedataquarry.com.](https://thedataquarry.com/)
+- [Vaibhav Gupta](https://www.linkedin.com/in/vaigup/) leads Boundary (YC w23), he hates ugly code. And as we know, most agent systems out there wouldn't pass a code review. So Viabhav is building BAML for clean, reliable AI infra. [[AI that works podcast] ](https://boundaryml.com/podcast)
+- Gaurav Jain is a Senior Staff Engineer at Pure Storage, where he leads the customer-facing GenAI Copilot initiative. A Carnegie Mellon alumnus, he combines broad engineering perspective with deep expertise in large-scale systems, applied AI, and building production-ready, enterprise-grade agents.
+- Mahati Kumar is a Senior Staff Engineer at Meta, where she leads teams building next-generation mobile and metaverse products. She’s passionate about 0→1 innovation, scalable systems, and mentoring builders at the intersection of tech and creativity.
+- [Rushabh Mehta](https://www.linkedin.com/in/mehtarushabh/) has led impactful AI Infra initiatives across 12 years at Big Tech. Most recently he has contributed to LLM Post training platform, Agents & Evals unlocking 100+ use cases across the company.
+- [Vasusen Patil](https://linkedin.com/in/vasusen) is the technical CEO @ Donobu, bringing 15y of tech experience. He has a rich background in scaling engineering teams and products, notably at WePay and Coursera, where he organized large-scale AI hackathons. His current work at Donobu focuses on AI-driven quality assurance, making him a perfect fit for judging this hackathon focused on production-ready AI agents.
 
 - More to be announced soon
 
@@ -88,6 +91,7 @@ Top 5 winners will have an opportunity to demo their projects on the main stage 
 🔥Prize: $2000 1st, $1000 2nd, $1000 3rd. Top teams give lightning talks on the main stage.
 
 ## USEFUL RESOURCES TO GET STARTED
+[Join our Discord channel](https://discord.gg/bZXuFWvBCp)
 
 1. Spring AI [Project](https://spring.io/projects/spring-ai), [Docs](https://docs.spring.io/spring-ai/reference/index.html), [Short Intro](https://www.baeldung.com/spring-ai), [Samples on GitHub](https://github.com/aws-samples/sample-agentic-ai-demos)
 2. Josh's talks on Spring AI [Session with James](https://vimeo.com/1115917659) [Session at SFJava](https://www.youtube.com/watch?v=mJHKmYpfGU0)
