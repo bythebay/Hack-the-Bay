@@ -105,7 +105,7 @@ Top 5 winners will have an opportunity to demo their projects on the main stage 
 10. [RAG in DSPy](https://dspy.ai/tutorials/rag/), [Optimizing a program for math reasoning](https://dspy.ai/tutorials/math/), [Building an Agent with DSPy](https://dspy.ai/tutorials/customer_service_agent/)
 11. [Omar Khattab, DSPy: Compiling Declarative Language Model Calls into Self -Improving Pipelines](https://www.youtube.com/watch?v=Dt3H2ninoeY)
 12. [Akka](https://akka.io/), [What is Agentic AI?](https://akka.io/what-is-agentic-ai), [Agentic tutorials and AI app samples](https://doc.akka.io/getting-started/)
-
+13. Redpanda Connect Quickstart [Docs](https://docs.redpanda.com/redpanda-cloud/develop/connect/connect-quickstart/)
 
 SUPPORT US EVEN MORE!
 - [Register for the AI By the Bay conference](http://ai.bythebay.io/)
