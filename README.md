@@ -31,10 +31,15 @@ Max team size is 5. No team? No problem. We’ll help match you with others at t
 - 9:00 am – 10:00 am | Onboarding, registration, coffee
 - 10:00 am – 10:30 am | Kickoff, rules, safety/CoC
 - 12:30 pm - 1:30 pm | Lunch
-- Mentor office hours
-  - 2:30 pm | Checkpoint #1 (problem framing & feasibility)
-  - 4:30 pm | Checkpoint #2 (reliability/readiness review)
-  - + more details soon
+- 11:00 am - 4:00 pm | Mentor Office Hours
+* Who and Where: 
+* Hugh McKee - Akka booth
+* Claire Longo- Comet booth
+* Chandler Mayo - Redpanda booth
+* Fred Patton - Auth0 (Okta) booth 
+* Jeremy Adams - Hackathon Mentor Zone
+* Francis Bouvier - Hackathon Mentor Zone
+
 - 3:30 pm - 4:00 pm | Coffee break
 - 6:00 pm | Happy Hour
 - 7:00 pm | Doors close
@@ -42,8 +47,7 @@ Max team size is 5. No team? No problem. We’ll help match you with others at t
 ## Wed, Nov 19
 
 - 8:00 am | Doors open, coffee
-- Mentor office hours (+ more details soon)
-- 11:00 am | Submissions due (repo + 3-min demo video)
+- 11:00 am | Submissions due
 - 11:00 am - 1:30 pm | Online Judging
 - 12:30 pm - 1:30 pm | Lunch
 - 1:30 pm - 3:00 pm | In -Person Judging (a team representative has to be at the venue)
@@ -62,19 +66,18 @@ Max team size is 5. No team? No problem. We’ll help match you with others at t
 While participants are free to use any frameworks and tools they prefer, we will have an experienced group of mentors and judges on site to provide guidance.
 
 - [Isaac Miller](https://www.linkedin.com/in/miller-isaac/) is a long-time core contributor for DSPy, working on typing, fine-tuning, RL infra, and multi-modal support.
-- [Hugh McKee](https://www.linkedin.com/in/mckeehugh/?miniProfileUrn=urn%253Ali%253Afs_miniProfile%253AACoAAAF4iK4Bv0tBsoZU99RjT4AcQ4Z5mtvK3Q8&skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAF4iK4Bv0tBsoZU99RjT4AcQ4Z5mtvK3Q8) is a skilled developer advocate with decades of experience building enterprise applications. Hugh is an expert in distributed systems and Akka, and can help connect all the dots!
-- [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) is a globally recognized expert in developer relations and open source strategy. With over 25 years of experience at Intel, Apple, Amazon, and Red Hat, he’s built developer communities of thousands of people.
+- [Hugh McKee](https://www.linkedin.com/in/mckeehugh/) is a skilled developer advocate with decades of experience building enterprise applications. Hugh is an expert in distributed systems and Akka, and can help connect all the dots!
 - [Claire Longo](https://www.linkedin.com/in/claire-longo/) is a mathematician and AI leader currently serving as Lead AI Researcher at Comet. She’s led teams at Twilio, Opendoor, and Arize AI, mentors engineers, and actively champions diversity in AI.
 - [Jeremy Adams](https://www.linkedin.com/in/jeremy-adams-pdx/) is a Senior Developer Advocate at Neo4j who blends deep technical understanding with strategic insight. He’s passionate about people, entrepreneurship, integration, and automation, and has worked across technical and business roles at Dagger, GitHub, Twistlock, and Puppet.
-- [Fred Patton](https://www.linkedin.com/in/thoughtpoet/?miniProfileUrn=urn%253Ali%253Afs_miniProfile%253AACoAAAAg2FYBWAPs4BsILJNbp0JGNh0IWQyIHWU&skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAg2FYBWAPs4BsILJNbp0JGNh0IWQyIHWU) is a Senior Developer Advocate at Auth0 for Okta. He helps teams design AI systems that are scalable, accountable, and identity-aware. Prior to Auth0, he led developer-facing work on streaming data platforms at Nstream (formerly Swim .ai) working in security and healthtech.
+- [Fred Patton](https://www.linkedin.com/in/thoughtpoet/) is a Senior Developer Advocate at Auth0 for Okta. He helps teams design AI systems that are scalable, accountable, and identity-aware. Prior to Auth0, he led developer-facing work on streaming data platforms at Nstream (formerly Swim .ai) working in security and healthtech.
 - [Prashanth Rao](https://www.linkedin.com/in/prrao87/) is an AI engineer at LanceDB. He's spent a lot of time working on use cases related to RAG, knowledge graphs, vector search, and incorporating them as tools for agents using modern frameworks like DSPy and BAML. He writes about these techniques on his blog, [thedataquarry.com.](https://thedataquarry.com/)
 - [Vaibhav Gupta](https://www.linkedin.com/in/vaigup/) leads Boundary (YC w23), he hates ugly code. And as we know, most agent systems out there wouldn't pass a code review. So Viabhav is building BAML for clean, reliable AI infra. [[AI that works podcast] ](https://boundaryml.com/podcast)
 - Gaurav Jain is a Senior Staff Engineer at Pure Storage, where he leads the customer-facing GenAI Copilot initiative. A Carnegie Mellon alumnus, he combines broad engineering perspective with deep expertise in large-scale systems, applied AI, and building production-ready, enterprise-grade agents.
 - Mahati Kumar is a Senior Staff Engineer at Meta, where she leads teams building next-generation mobile and metaverse products. She’s passionate about 0→1 innovation, scalable systems, and mentoring builders at the intersection of tech and creativity.
 - [Rushabh Mehta](https://www.linkedin.com/in/mehtarushabh/) has led impactful AI Infra initiatives across 12 years at Big Tech. Most recently he has contributed to LLM Post training platform, Agents & Evals unlocking 100+ use cases across the company.
 - [Vasusen Patil](https://linkedin.com/in/vasusen) is the technical CEO @ Donobu, bringing 15y of tech experience. He has a rich background in scaling engineering teams and products, notably at WePay and Coursera, where he organized large-scale AI hackathons. His current work at Donobu focuses on AI-driven quality assurance, making him a perfect fit for judging this hackathon focused on production-ready AI agents.
+- [Francis Bouvier](https://www.linkedin.com/in/francisbouvier/) is CEO and co-founder of Lightpanda, the first web browser built for machines, not humans. His previous company BlueBoard, an e-commerce analytics platform, was acquired by ChannelAdvisor in 2020. Through this experience, Francis realised first hand the limitations of existing web automation solutions, inspiring him to launch Lightpanda.
 
-- More to be announced soon
 
 Mentors are also familiar with MCP which you may want to use for data/process integration. 
 
