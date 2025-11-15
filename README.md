@@ -44,7 +44,7 @@ Max team size is 5. No team? No problem. We’ll help match you with others at t
 - 3:30 pm - 4:00 pm | Coffee break
 - 6:00 pm | Happy Hour
 - 7:00 pm | Doors close
-- 
+  
 ## Wed, Nov 19
 
 - 8:00 am | Doors open, coffee
