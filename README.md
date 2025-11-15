@@ -85,7 +85,7 @@ Please keep in mind, the mentoring and technical support are available but limit
 
 ## RUBRIC
 
-Projects will be evaluated on production readiness, innovation, technical complexity, practicality, user experience, and overall quality. A detailed judging rubric will be provided to participants closer to the hackathon date.
+Projects will be evaluated on production readiness, innovation, technical complexity, practicality, user experience, and overall quality. A detailed judging rubric can be found [here](https://github.com/bythebay/Hack-the-Bay/blob/main/rubric.md)
 
 ## AWARDS
 
