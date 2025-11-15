@@ -16,7 +16,7 @@
 ### **2\) Production Readiness: Reliability & Maintainability — 20 pts**
 
 **What this means:** Your agent/app can be owned, extended, and kept stable by a team.  
-**What good looks like (Manifesto: “High-Productivity DevEx”):**
+**What good looks like:**
 
 * Clean boundaries, typed I/O, config/env separation, versioned prompts.
 
