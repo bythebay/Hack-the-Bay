@@ -3,9 +3,9 @@
 
 Join us for a 2-day hackathon dedicated to building production-ready AI Agents that can accomplish something amazing in a business-to-business or business-to-consumer use case.
 
-| All Hackathon Attendees must be pre-registered on [Luma](https://luma.com/hackthebay) & [DevPost](https://ai-by-the-bay-hackathon-26958.devpost.com/).
+> All Hackathon Attendees must be pre-registered on [Luma](https://luma.com/hackthebay) & [DevPost](https://ai-by-the-bay-hackathon-26958.devpost.com/).
 
-| ​Review Hackathon Instruction [here](https://docs.google.com/document/d/1YqSzzXU_jYwqDiClAyBNralyPpfKlLtgPsmBEcGMbTQ/edit?usp=sharing)!
+> ​Review Hackathon Instruction [here](https://docs.google.com/document/d/1YqSzzXU_jYwqDiClAyBNralyPpfKlLtgPsmBEcGMbTQ/edit?usp=sharing)!
 
 ## THE CHALLENGE
 
