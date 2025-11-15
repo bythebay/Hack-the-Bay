@@ -1,5 +1,3 @@
-## Short
-
 ## **Rubric**
 
 ### **1\) Business Value & User Impact — 20 pts**
