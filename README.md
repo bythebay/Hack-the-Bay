@@ -39,6 +39,7 @@ Max team size is 5. No team? No problem. We’ll help match you with others at t
 * Fred Patton - Auth0 (Okta) booth 
 * Jeremy Adams - Hackathon Mentor Zone
 * Francis Bouvier - Hackathon Mentor Zone
+* Michael Maximilien - Hackathon Mentor Zone
 
 - 3:30 pm - 4:00 pm | Coffee break
 - 6:00 pm | Happy Hour
@@ -77,6 +78,7 @@ While participants are free to use any frameworks and tools they prefer, we will
 - [Rushabh Mehta](https://www.linkedin.com/in/mehtarushabh/) has led impactful AI Infra initiatives across 12 years at Big Tech. Most recently he has contributed to LLM Post training platform, Agents & Evals unlocking 100+ use cases across the company.
 - [Vasusen Patil](https://linkedin.com/in/vasusen) is the technical CEO @ Donobu, bringing 15y of tech experience. He has a rich background in scaling engineering teams and products, notably at WePay and Coursera, where he organized large-scale AI hackathons. His current work at Donobu focuses on AI-driven quality assurance, making him a perfect fit for judging this hackathon focused on production-ready AI agents.
 - [Francis Bouvier](https://www.linkedin.com/in/francisbouvier/) is CEO and co-founder of Lightpanda, the first web browser built for machines, not humans. His previous company BlueBoard, an e-commerce analytics platform, was acquired by ChannelAdvisor in 2020. Through this experience, Francis realised first hand the limitations of existing web automation solutions, inspiring him to launch Lightpanda.
+- [Michael Maximilien](https://www.linkedin.com/in/drmaximilien/) is a Distinguished Engineer and leader for the teams contributing to OSS AI at IBM Research, holding masters and Ph.D. in CS. His main expertise is in software engineering and distributed systems.
 
 
 Mentors are also familiar with MCP which you may want to use for data/process integration. 
