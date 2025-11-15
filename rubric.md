@@ -1,4 +1,15 @@
-## **Rubric**
+## **Artifacts & Rubric**
+### **Required Submission Artifacts**
+
+* **Code repo** with one-command setup (README quickstart), .env.sample, and seed/test data or fixtures.
+
+* **Architecture & threat model one-pager**: boundaries, data flows, risks → mitigations.
+
+* **Observability proof**: one trace screenshot or link; sample logs/metrics.
+
+* **Demo video (≤3 min) or live demo** hitting the happy path \+ 1 failure path.
+
+* **Short post-mortem note**: what broke during hacking and how you fixed it.
 
 ### **1\) Business Value & User Impact — 20 pts**
 
@@ -120,19 +131,6 @@ By using the Akka SDK, you’ll get the following out of the box:
 
 
 ### **Additional Judging Rules & Criteria**
-
-### **Required Submission Artifacts**
-
-* **Code repo** with one-command setup (README quickstart), .env.sample, and seed/test data or fixtures.
-
-* **Architecture & threat model one-pager**: boundaries, data flows, risks → mitigations.
-
-* **Observability proof**: one trace screenshot or link; sample logs/metrics.
-
-* **Demo video (≤3 min) or live demo** hitting the happy path \+ 1 failure path.
-
-* **Short post-mortem note**: what broke during hacking and how you fixed it.
-
 ### **Disqualifiers / Zeroing conditions**
 
 * No working demo (video or live) or can’t run from README.
